@@ -1,0 +1,7 @@
+
+Steams were introduced in java to allow us to process a collection of objects in declarative way or functional way.
+
+Creating Stream:
+we can create a stream from a collection, from Arrays , From an arbitrary number of object. we can also generate
+infinite and finite streams.every class that implements the collection interface it has the ability to return a
+stream.
